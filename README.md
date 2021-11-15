@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-I'm a Mogician as you can see.
-You can found me in [github](https://github.com/Concyclics), [Bilibili](https://space.bilibili.com/8271556) or [CSDN](https://blog.csdn.net/qq_21008741), mail: 1224763438@qq.com
+-I'm a Mogician as you can see.
+-You can found me in [github](https://github.com/Concyclics), [Bilibili](https://space.bilibili.com/8271556) or [CSDN](https://blog.csdn.net/qq_21008741), mail: 1224763438@qq.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight)](https://github.com/Concyclics/github-readme-stats)
 
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning on South China University of Technology and I graduated from Fuzhou NO.3 Middle School.
