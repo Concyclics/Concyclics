@@ -1,21 +1,16 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&layout=compact&theme=tokyonight" />
 
-### Exciting! 口。。口 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight" />
 
-I'm a Mogician as you can see.
+
+### Exciting! 口..口 👋
 
 You can found me in 
 
-- [Github](https://github.com/Concyclics), 
-
+- [Github](https://github.com/Concyclics)
 - [Bilibili](https://space.bilibili.com/8271556)
-
 - [CSDN](https://blog.csdn.net/qq_21008741)
-
 - mail: 1224763438@qq.com
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight" />
 
 
 
