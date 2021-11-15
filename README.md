@@ -1,8 +1,7 @@
-### Hi there 👋
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&layout=compact&theme=tokyonight" />
 
+### Exciting! 口。。口 👋
 
 I'm a Mogician as you can see.
 
