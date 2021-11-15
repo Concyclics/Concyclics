@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&layout=compact&theme=tokyonight" />
 
 
 I'm a Mogician as you can see.
@@ -16,7 +16,9 @@ You can found me in
 
 - mail: 1224763438@qq.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&layout=compact&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight" />
+
+
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight)](https://github.com/Concyclics/github-readme-stats)-->
 
