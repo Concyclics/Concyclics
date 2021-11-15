@@ -4,9 +4,9 @@
 - I'm a Mogician as you can see.
 - You can found me in [github](https://github.com/Concyclics), [Bilibili](https://space.bilibili.com/8271556) or [CSDN](https://blog.csdn.net/qq_21008741), mail: 1224763438@qq.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight)](https://github.com/Concyclics/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight)](https://github.com/Concyclics/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&layout=compact)](https://github.com/Concyclics/github-readme-stats)
 
