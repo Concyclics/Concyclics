@@ -2,7 +2,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight" />
 
-<a href="https://app.testdome.com/cert/9af88d532837416f80620799c6fa1c9f" class="testdome-certificate-stamp gold"><span class="testdome-certificate-name">陈涵</span><span class="testdome-certificate-test-name">Python </span><span class="testdome-certificate-card-logo">TestDome<br />Certificate</span></a><script>var stylesheet = "https://app.testdome.com/content/source/stylesheets/embed.css", link = document.createElement("link"); link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
 
 
 ### Exciting! 口..口 👋
