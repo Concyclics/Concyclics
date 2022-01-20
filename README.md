@@ -9,6 +9,7 @@
 You can found me in 
 
 - [Github](https://github.com/Concyclics)
+- [Gitee](https://gitee.com/concyclics)
 - [Bilibili](https://space.bilibili.com/8271556)
 - [CSDN](https://blog.csdn.net/qq_21008741)
 - mail: 1224763438@qq.com
