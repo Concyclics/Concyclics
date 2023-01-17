@@ -1,9 +1,4 @@
 
-
-[![Concyclics' GitHub stats](https://github-readme-stats.vercel.app/api?username=Concyclics)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ### Exciting! 口..口 👋
 
 You can found me in 
