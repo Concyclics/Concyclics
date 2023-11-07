@@ -1,13 +1,13 @@
 
-### Exciting! 口..口 👋
+### Hello 👋
 
-You can found me in 
+I'm studying for a master's degree and looking for PhD opportunity. I'm interested in parallel computing, graph computing, and databases. I've won a silver medal in ICPC and a bronze medal in the ICPC East Continental Final. For more detail, you are welcome to have a view of my [CV here](https://github.com/Concyclics/resume/blob/200c3a98b570adbb944bfc4d7dd50a5816205706/latex/resume_of_CHEN_Han.pdf).
+
+You can find me by
 
 - [Github](https://github.com/Concyclics)
 - [Gitee](https://gitee.com/concyclics)
 - [Kaggle](https://www.kaggle.com/concyclics)
-- [Bilibili](https://space.bilibili.com/8271556)
-- [CSDN](https://blog.csdn.net/qq_21008741)
 - mail: [concyclics@qq.com](concyclics@qq.com)
 
 
