@@ -9,6 +9,7 @@ You can find me by
 - [Gitee](https://gitee.com/concyclics)
 - [Kaggle](https://www.kaggle.com/concyclics)
 - mail: [concyclics@qq.com](concyclics@qq.com)
+- mail: [chenhan@u.nus.edu](chenhan@u.nus.edu)
 
 
 
