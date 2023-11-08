@@ -10,7 +10,7 @@ You can find me by
 - [Kaggle](https://www.kaggle.com/concyclics)
 - mail: [concyclics@qq.com](mailto:concyclics@qq.com)
 - mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
-
+- mail: [chenhan@comp.nus.edu.sg](mailto:chenhan@comp.nus.edu.sg)
 
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight)](https://github.com/Concyclics/github-readme-stats)-->
