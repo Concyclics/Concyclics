@@ -8,8 +8,8 @@ You can find me by
 - [Github](https://github.com/Concyclics)
 - [Gitee](https://gitee.com/concyclics)
 - [Kaggle](https://www.kaggle.com/concyclics)
-- mail: [concyclics@qq.com](concyclics@qq.com)
-- mail: [chenhan@u.nus.edu](chenhan@u.nus.edu)
+- mail: [concyclics@qq.com](mailto:concyclics@qq.com)
+- mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
 
 
 
