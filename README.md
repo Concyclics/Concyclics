@@ -11,6 +11,7 @@ You can find me by
 - mail: [concyclics@qq.com](mailto:concyclics@qq.com)
 - mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
 - mail: [chenhan@comp.nus.edu.sg](mailto:chenhan@comp.nus.edu.sg)
+- wechat: concyclics
 
 <!--[![Rock's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  -->
 [![Rock's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
