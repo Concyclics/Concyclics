@@ -1,7 +1,7 @@
 
 ### Hello 👋
 
-I'm studying for a master's degree and looking for PhD opportunity. I'm interested in parallel computing, graph computing, HPC and databases. I've won a silver medal in ICPC and a bronze medal in the ICPC East Continental Final. For more details, you are welcome to have a view of my [CV here](https://concyclics.github.io/resume/latex/resume.pdf).
+I'm studying for a master's degree and looking for PhD opportunity. I'm interested in algorithms, parallel computing, graph computing, HPC,  and databases. I've won a silver medal in ICPC and a bronze medal in the ICPC East Continental Final. For more details, you are welcome to have a view of my [CV here](https://concyclics.github.io/resume/latex/resume.pdf).
 
 You can find me by
 
