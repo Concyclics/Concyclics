@@ -42,27 +42,3 @@ Here are some ideas to get you started:
 
 -->
 <!--- 🌱 I’m currently learning on South China University of Technology and I graduated from Fuzhou NO.3 Middle School.-->
-
-# %%
-Z = [1.0, 2.0]
-
-
-# %%
-def loss(X, Y):
-    return (X[0]**2 -X[1]**2 - Y[0])**2 + (2*X[0]*X[1] -Y[1])**2
-
-
-# %%
-def grad(X, Y, lr=0.1):
-    new_X = X.copy()
-    new_X[0] -= lr * 4 * ((X[0]**2 -X[1]**2 - Y[0]) * X[0] + (2*X[0]*X[1] -Y[1]))
-    new_X[1] -= lr * 4 * ((X[0]**2 -X[1]**2 - Y[0]) * (-X[1]) + (2*X[0]*X[1] -Y[1]))
-    return new_X
-
-
-# %%
-X = [0.5, 0.5]
-print("loss beofre: ", loss(X, Z))
-for _ in range(10):
-    X = grad(X, Z)
-    print(f"iter {_} loss: ", loss(X, Z))
