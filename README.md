@@ -7,12 +7,9 @@ You can find me by
 
 - [Github](https://github.com/Concyclics)
 - [Linkedin](https://www.linkedin.com/in/han-chen-74784a233/)
-- [Gitee](https://gitee.com/concyclics)
 - [Kaggle](https://www.kaggle.com/concyclics)
 - mail: [concyclics@qq.com](mailto:concyclics@qq.com)
 - mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
-- mail: [chenhan@comp.nus.edu.sg](mailto:chenhan@comp.nus.edu.sg)
-- mail: [concyclics@gmail.com](mailto:concyclics@gmail.com)
 - wechat: concyclics
 
 <!--[![Rock's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  -->
