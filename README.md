@@ -3,7 +3,7 @@
 
 I'm studying for a master's degree and looking for PhD/work opportunity. I've won a silver medal in ICPC and a bronze medal in the ICPC East Continental Final. For more details, you are welcome to have a view of my [CV here](https://concyclics.github.io/resume/latex/resume.pdf).
 
-You can find me by
+You can find me by:
 
 - [Github](https://github.com/Concyclics)
 - [Linkedin](https://www.linkedin.com/in/han-chen-74784a233/)
