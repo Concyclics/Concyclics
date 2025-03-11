@@ -6,6 +6,7 @@ I'm studying for a master's degree and looking for PhD/work opportunity. I've wo
 You can find me by:
 
 - [Github](https://github.com/Concyclics)
+- [Google Scholar](https://scholar.google.com/citations?user=ru1OE6wAAAAJ)
 - [Linkedin](https://www.linkedin.com/in/han-chen-74784a233/)
 - [Kaggle](https://www.kaggle.com/concyclics)
 - mail: [concyclics@qq.com](mailto:concyclics@qq.com)
