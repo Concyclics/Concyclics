@@ -1,7 +1,8 @@
 
 ### Hello 👋
 
-I'm studying for a master's degree and looking for PhD opportunity. I've won a silver medal in ICPC and a bronze medal in the ICPC East Continental Final. My previous works focus on high performance computing, including LAPACK subroutine optimization, LLM inference optimization and high throughput encryption algorithm design. For more details, you are welcome to have a view of my [CV here](https://concyclics.github.io/resume/latex/resume.pdf).
+I'm a first year CS PhD student in National University of Singapore supervised by Prof. HE Bingsheng. I will focus on mlsys to speedup LLM inference. Before this my previous works focus on high performance computing, including LAPACK subroutine optimization, LLM inference optimization and high throughput encryption algorithm design. I've also won a silver medal in ICPC and a bronze medal in the ICPC East Continental Final. 
+For more details, you are welcome to have a view of my [CV here](https://concyclics.github.io/resume/latex/resume.pdf).
 
 You can find me by:
 
