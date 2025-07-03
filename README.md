@@ -10,7 +10,7 @@ You can find me by:
 - [Google Scholar](https://scholar.google.com/citations?user=ru1OE6wAAAAJ)
 - [Linkedin](https://www.linkedin.com/in/han-chen-74784a233/)
 - [Kaggle](https://www.kaggle.com/concyclics)
-- mail: [concyclics@qq.com](mailto:concyclics@qq.com)
+- mail: [concyclics@gmail.com](mailto:concyclics@gmail.com)
 - mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
 - wechat: concyclics
 
