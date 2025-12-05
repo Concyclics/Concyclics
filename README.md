@@ -14,19 +14,6 @@ You can find me by:
 - mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
 - wechat: concyclics
 
-## ⭐ My Stars
-
-### Featured repos
-[![stars](https://img.shields.io/github/stars/Concyclics/Concyclics?style=social)](https://github.com/Concyclics/Concyclics)
-[![stars](https://img.shields.io/github/stars/Concyclics/Qwen2.5-1M-Deploy?style=social)](https://github.com/Concyclics/Qwen2.5-1M-Deploy)
-[![stars](https://img.shields.io/github/stars/Concyclics/Benchmarks?style=social)](https://github.com/Concyclics/Benchmarks)
-
-### Star history
-[![Star History Chart](https://api.star-history.com/svg?repos=Concyclics/Concyclics,Concyclics/Qwen2.5-1M-Deploy&type=Date)](https://star-history.com/#Concyclics/Concyclics&Date)
-
----
-
-### Recently starred repos
 <!--START_SECTION:starred-->
 <!-- 这里会由 GitHub Actions 自动更新 -->
 <!--END_SECTION:starred-->
