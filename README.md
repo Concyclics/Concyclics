@@ -14,7 +14,7 @@ You can find me by:
 - mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
 - wechat: concyclics
 
-![Rock's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rock's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight)](https://github.com/Concyclics/github-readme-stats)-->
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&layout=compact&theme=tokyonight" />-->
