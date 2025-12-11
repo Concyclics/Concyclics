@@ -14,6 +14,7 @@ You can find me by:
 - mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
 - wechat: concyclics
 
+[![Rock's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics)](https://github.com/anuraghazra/github-readme-stats)  
 <!--START_SECTION:starred-->
 <!-- 这里会由 GitHub Actions 自动更新 -->
 <!--END_SECTION:starred-->
