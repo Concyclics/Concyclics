@@ -10,6 +10,7 @@
   <a href="https://scholar.google.com/citations?user=ru1OE6wAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://www.linkedin.com/in/han-chen-74784a233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/concyclics"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://huggingface.co/Concyclics"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="https://concyclics.github.io/resume/latex/resume.pdf"><img src="https://img.shields.io/badge/CV-0A0A0A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
 </p>
 
