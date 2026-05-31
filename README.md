@@ -2,7 +2,7 @@
 
 <p align="center">
   First-year CS PhD student at the National University of Singapore<br/>
-  MLSys · accelerating LLM inference
+  MLSys · Agent Memory
 </p>
 
 <p align="center">
