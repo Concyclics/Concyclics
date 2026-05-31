@@ -1,49 +1,31 @@
+<h1 align="center">Hi, I'm Han Chen 👋</h1>
 
-### Hello 👋
-
-I'm a first year CS PhD student in National University of Singapore supervised by [Prof. HE Bingsheng](https://www.comp.nus.edu.sg/~hebs/). I will focus on mlsys to speedup LLM inference. Before this my previous works focus on high performance computing, including LAPACK subroutine optimization, LLM inference optimization and high throughput encryption algorithm design. I've also won a silver medal in ICPC and a bronze medal in the ICPC East Continental Final. 
-For more details, you are welcome to have a view of my [CV here](https://concyclics.github.io/resume/latex/resume.pdf).
-
-You can find me by:
-
-- [Github](https://github.com/Concyclics)
-- [Google Scholar](https://scholar.google.com/citations?user=ru1OE6wAAAAJ)
-- [Linkedin](https://www.linkedin.com/in/han-chen-74784a233/)
-- [Kaggle](https://www.kaggle.com/concyclics)
-- mail: [concyclics@gmail.com](mailto:concyclics@gmail.com)
-- mail: [chenhan@u.nus.edu](mailto:chenhan@u.nus.edu)
-- wechat: concyclics
-
-<p>
-  <img src="./profile/stats.svg" height="180" alt="Rock's GitHub stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Rock's top languages" />
+<p align="center">
+  First-year CS PhD student at the National University of Singapore<br/>
+  MLSys · accelerating LLM inference
 </p>
 
-<!--START_SECTION:starred-->
-<!-- 这里会由 GitHub Actions 自动更新 -->
-<!--END_SECTION:starred-->
+<p align="center">
+  <a href="https://github.com/Concyclics"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://scholar.google.com/citations?user=ru1OE6wAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.linkedin.com/in/han-chen-74784a233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/concyclics"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://concyclics.github.io/resume/latex/resume.pdf"><img src="https://img.shields.io/badge/CV-0A0A0A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
+</p>
 
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Concyclics&show_icons=true&theme=tokyonight)](https://github.com/Concyclics/github-readme-stats)-->
+<p align="center">
+  <a href="mailto:concyclics@gmail.com"><img src="https://img.shields.io/badge/concyclics@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:chenhan@u.nus.edu"><img src="https://img.shields.io/badge/chenhan@u.nus.edu-003D7C?style=for-the-badge&logo=maildotru&logoColor=white" alt="NUS Mail" /></a>
+  <img src="https://img.shields.io/badge/WeChat-concyclics-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: concyclics" />
+</p>
 
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&layout=compact&theme=tokyonight" />-->
+---
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Concyclics&layout=compact&theme=tokyonight)](https://github.com/Concyclics/github-readme-stats)-->
+I'm a first-year CS PhD student at the National University of Singapore, supervised by [Prof. HE Bingsheng](https://www.comp.nus.edu.sg/~hebs/). My research focuses on MLSys — speeding up LLM inference. Before that, my work centered on high-performance computing, including LAPACK subroutine optimization, LLM inference optimization, and high-throughput encryption algorithm design. I've also won a silver medal at ICPC and a bronze medal at the ICPC East Continental Final.
 
-<!--
-**Concyclics/Concyclics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For more details, you're welcome to take a look at my [CV](https://concyclics.github.io/resume/latex/resume.pdf).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-急事请呼：18148778939//蓝色闪电号呼叫基地，蓝色闪电号呼叫基地。这里是华为溪村基地，请讲。我蓝色闪电号舰长亚蒙，请求追击离职人员。接过来，这里是部长，你舰是否全员就位，进入待发状态。蓝色闪电已经进入待发状态。批准请求，准备出击。这里是溪村E区，蓝色闪电请按照流程进行准备动作，前方净空，等等，你在干什么。『蓝色闪电』，前进四。
-
--->
-<!--- 🌱 I’m currently learning on South China University of Technology and I graduated from Fuzhou NO.3 Middle School.-->
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="Han Chen's GitHub stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Han Chen's top languages" />
+</p>
