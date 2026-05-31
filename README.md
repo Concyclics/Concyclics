@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Han Chen 👋</h1>
+<h1 align="center">Hi, I'm CHEN Han 👋</h1>
 
 <p align="center">
   First-year CS PhD student at the National University of Singapore<br/>
