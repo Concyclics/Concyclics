@@ -1,15 +1,14 @@
-
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#ffffff00" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #006AFF }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#ffffff00" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
-  
+<svg width="465" height="195" viewBox="0 0 465 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Concyclics's GitHub statistics</title>
+  <desc id="desc">Self-generated GitHub profile statistics using GitHub GraphQL + REST</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #006AFF; }
+    .label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87; }
+    .value { font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87; }
+    .meta { font: 400 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #858585; }
+  </style>
+  <rect x="0.5" y="0.5" width="464" height="194" rx="4.5" fill="#ffffff00" stroke="#e4e2e2"/>
+  <text x="28" y="38" class="header">Concyclics's GitHub Stats</text>
+  <text x="28" y="83" class="label">Total Stars</text><text x="213" y="83" text-anchor="end" class="value">174</text><text x="253" y="83" class="label">Commits</text><text x="438" y="83" text-anchor="end" class="value">664</text><text x="28" y="121" class="label">Pull Requests</text><text x="213" y="121" text-anchor="end" class="value">9</text><text x="253" y="121" class="label">Issues</text><text x="438" y="121" text-anchor="end" class="value">5</text><text x="28" y="159" class="label">Total Forks</text><text x="213" y="159" text-anchor="end" class="value">16</text><text x="253" y="159" class="label">Repositories</text><text x="438" y="159" text-anchor="end" class="value">39</text>
+  <text x="437" y="179" text-anchor="end" class="meta">self-generated · GitHub GraphQL + REST</text>
+</svg>
