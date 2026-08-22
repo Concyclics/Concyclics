@@ -1,40 +1,84 @@
-name: Update GitHub stats card
+name: Update GitHub stats cards
 
 on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate_github_stats.py"
+      - ".github/workflows/github-stats.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: github-profile-stats
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v7.0.1
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=Concyclics&show_icons=true&theme=transparent&include_all_commits=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate staged cards
+        env:
+          # Optional PAT improves user-level contribution/review counts. If absent,
+          # the generator safely falls back to public REST statistics.
+          GH_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+        run: |
+          python3 scripts/generate_github_stats.py \
+            --username Concyclics \
+            --output-dir "$RUNNER_TEMP/github-stats" \
+            --langs-count 8
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=Concyclics&layout=compact&langs_count=8&theme=transparent
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Validate staged output
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          root = Path(os.environ["RUNNER_TEMP"]) / "github-stats"
+          forbidden = ("something went wrong", "resource not accessible", "rate limit exceeded", "api error")
+          for name in ("stats.svg", "top-langs.svg"):
+              text = (root / name).read_text(encoding="utf-8")
+              low = text.casefold()
+              if "<svg" not in low or "</svg>" not in low or any(x in low for x in forbidden):
+                  raise SystemExit(f"Refusing to publish invalid {name}")
+
+          data = json.loads((root / "stats.json").read_text(encoding="utf-8"))
+          if data.get("username") != "Concyclics":
+              raise SystemExit("Unexpected username in stats.json")
+          if int(data.get("repositories", 0)) <= 0:
+              raise SystemExit("Repository count is invalid")
+          if not data.get("languages"):
+              raise SystemExit("Language data is empty")
+          for key in ("total_stars", "total_forks", "commits", "pull_requests", "issues"):
+              if int(data.get(key, -1)) < 0:
+                  raise SystemExit(f"Invalid metric: {key}")
+          PY
+
+      - name: Install last-known-good cards
+        run: |
+          install -m 0644 "$RUNNER_TEMP/github-stats/stats.svg" profile/stats.svg
+          install -m 0644 "$RUNNER_TEMP/github-stats/top-langs.svg" profile/top-langs.svg
+          install -m 0644 "$RUNNER_TEMP/github-stats/stats.json" profile/stats.json
 
       - name: Commit generated cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg
-          git commit -m "Update GitHub stats card" || exit 0
+          git add profile/stats.svg profile/top-langs.svg profile/stats.json
+          if git diff --cached --quiet; then
+            echo "Statistics have not changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update GitHub profile statistics"
           git push
