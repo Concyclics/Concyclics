@@ -5,8 +5,8 @@
   "followers": 66,
   "issues": 5,
   "language_repositories": [
-    "Concyclics/Concyclics",
     "Concyclics/MemForest",
+    "Concyclics/Concyclics",
     "Concyclics/resume",
     "Concyclics/GraphMem",
     "Concyclics/LogQuantKV",
@@ -75,6 +75,6 @@
   },
   "source": "graphql-contributions",
   "total_forks": 15,
-  "total_stars": 175,
+  "total_stars": 174,
   "username": "Concyclics"
 }
