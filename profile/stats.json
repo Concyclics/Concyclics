@@ -1,12 +1,12 @@
 {
   "code_reviews": 0,
   "commits": 688,
-  "contributions": 1654,
+  "contributions": 1658,
   "followers": 66,
   "issues": 5,
   "language_repositories": [
-    "Concyclics/MemForest",
     "Concyclics/Concyclics",
+    "Concyclics/MemForest",
     "Concyclics/resume",
     "Concyclics/GraphMem",
     "Concyclics/LogQuantKV",
@@ -66,7 +66,7 @@
   "public_repositories": 67,
   "pull_requests": 9,
   "repositories": 39,
-  "restricted_contributions": 883,
+  "restricted_contributions": 887,
   "schema_version": 1,
   "settings": {
     "excluded_repositories": [],
