@@ -2,15 +2,15 @@
   "code_reviews": 0,
   "commits": 688,
   "contributions": 1658,
-  "followers": 66,
+  "followers": 67,
   "issues": 5,
   "language_repositories": [
+    "Concyclics/HiAE",
     "Concyclics/Concyclics",
     "Concyclics/MemForest",
     "Concyclics/resume",
     "Concyclics/GraphMem",
     "Concyclics/LogQuantKV",
-    "Concyclics/HiAE",
     "Concyclics/SuwayomiOCR",
     "Concyclics/XtraFamily",
     "Concyclics/NUS-CS5228-project",
@@ -75,6 +75,6 @@
   },
   "source": "graphql-contributions",
   "total_forks": 15,
-  "total_stars": 174,
+  "total_stars": 175,
   "username": "Concyclics"
 }
