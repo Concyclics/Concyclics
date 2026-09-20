@@ -39,22 +39,23 @@
     "Concyclics/MyTemplate",
     "Concyclics/civil_war",
     "Concyclics/CSDNvisitor",
-    "Concyclics/facedetect"
+    "Concyclics/facedetect",
+    "Concyclics/NNI-Student-Program-2020"
   ],
-  "language_repository_count": 35,
+  "language_repository_count": 36,
   "languages": {
     "Assembly": 92192.0,
     "Batchfile": 150.0,
     "C": 2814966.0,
     "C++": 391458.0,
     "CSS": 89969.0,
-    "Dockerfile": 1781.0,
+    "Dockerfile": 1991.0,
     "GAP": 22674.0,
     "HTML": 6351295.0,
     "JavaScript": 199219.0,
-    "Jupyter Notebook": 66052639.0,
+    "Jupyter Notebook": 66068286.0,
     "Makefile": 342426.0,
-    "Python": 18727233.0,
+    "Python": 18828819.0,
     "Ruby": 720.0,
     "SWIG": 127.0,
     "Shell": 201736.0,
@@ -65,7 +66,7 @@
   },
   "public_repositories": 67,
   "pull_requests": 9,
-  "repositories": 39,
+  "repositories": 40,
   "restricted_contributions": 888,
   "schema_version": 1,
   "settings": {
@@ -75,6 +76,6 @@
   },
   "source": "graphql-contributions",
   "total_forks": 15,
-  "total_stars": 175,
+  "total_stars": 176,
   "username": "Concyclics"
 }
