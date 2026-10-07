@@ -56,7 +56,7 @@
     "JavaScript": 199219.0,
     "Jupyter Notebook": 66068286.0,
     "Makefile": 342426.0,
-    "Python": 19745718.0,
+    "Python": 21660080.0,
     "Ruby": 720.0,
     "SWIG": 127.0,
     "Shell": 201736.0,
@@ -77,6 +77,6 @@
   },
   "source": "graphql-contributions",
   "total_forks": 15,
-  "total_stars": 175,
+  "total_stars": 176,
   "username": "Concyclics"
 }
