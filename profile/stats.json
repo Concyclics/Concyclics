@@ -2,11 +2,11 @@
   "code_reviews": 0,
   "commits": 731,
   "contributions": 1704,
-  "followers": 70,
+  "followers": 69,
   "issues": 5,
   "language_repositories": [
-    "Concyclics/GraphMem",
     "Concyclics/Concyclics",
+    "Concyclics/GraphMem",
     "Concyclics/resume",
     "Concyclics/XtraStock",
     "Concyclics/MemForest",
