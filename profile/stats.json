@@ -5,8 +5,8 @@
   "followers": 69,
   "issues": 5,
   "language_repositories": [
-    "Concyclics/GraphMem",
     "Concyclics/Concyclics",
+    "Concyclics/GraphMem",
     "Concyclics/resume",
     "Concyclics/XtraStock",
     "Concyclics/MemForest",
