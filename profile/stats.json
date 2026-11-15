@@ -5,9 +5,9 @@
   "followers": 71,
   "issues": 5,
   "language_repositories": [
+    "Concyclics/MemForest",
     "Concyclics/XtraStock",
     "Concyclics/Concyclics",
-    "Concyclics/MemForest",
     "Concyclics/GraphMem",
     "Concyclics/resume",
     "Concyclics/ThunderWorld",
@@ -80,7 +80,7 @@
     "notebook_weight": 1.0
   },
   "source": "graphql-contributions",
-  "total_forks": 15,
-  "total_stars": 186,
+  "total_forks": 17,
+  "total_stars": 187,
   "username": "Concyclics"
 }
